@@ -1,14 +1,8 @@
-# simple-node-js-react-npm-app
+# Build CI/CD Pipeline with Jenkins
+Build, test, deploy and pipeline monitoring for React App using Jenkins, Prometheus and Grafana.
 
-This repository is for the
-[Build a Node.js and React app with npm](https://jenkins.io/doc/tutorials/build-a-node-js-and-react-app-with-npm/)
-tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
-
-The repository contains a simple Node.js and React application which generates
-a web page with the content "Welcome to React" and is accompanied by a test to
-check that the application renders satisfactorily.
-
-The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Pipeline)
-you'll be creating yourself during the tutorial and the `scripts` subdirectory
-contains shell scripts with commands that are executed when Jenkins processes
-the "Test" and "Deliver" stages of your Pipeline.
+<img width="960" alt="Jenkins Dashboard" src="https://github.com/radyafariez/Build-CI-CD-Pipeline-with-Jenkins-and-Grafana/assets/109395960/627d8410-a3a0-472a-b41d-47959fdef494">
+<img width="960" alt="Detail Pipeline Blue Ocean" src="https://github.com/radyafariez/Build-CI-CD-Pipeline-with-Jenkins-and-Grafana/assets/109395960/557dfa1f-2d16-4d3e-96ec-3b3711c520d8">
+<img width="958" alt="Prometheus Configure System" src="https://github.com/radyafariez/Build-CI-CD-Pipeline-with-Jenkins-and-Grafana/assets/109395960/2627b58f-e41f-43fb-8aba-e03796e0e59e">
+<img width="960" alt="Metric Explorer Prometheus" src="https://github.com/radyafariez/Build-CI-CD-Pipeline-with-Jenkins-and-Grafana/assets/109395960/86f89777-6e9c-4bb6-86be-f56ae3047b9a">
+<img width="960" alt="Grafana Dashboard" src="https://github.com/radyafariez/Build-CI-CD-Pipeline-with-Jenkins-and-Grafana/assets/109395960/54c9c829-0287-40b6-bd28-c95d319feefd">
